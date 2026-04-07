@@ -23,4 +23,4 @@
 </table> 
 
 ## Execução:
-[![Video (por motivos técnicos, o vídeo vai baixar como um arquivo ao invés de rodar)](https://raw.githubusercontent.com/joao-the-carvalho/Logcat/main/Telas/thumbnail.png)](https://raw.githubusercontent.com/joao-the-carvalho/Logcat/main/Telas/video.mp4)
+[![Video](https://img.youtube.com/vi/CF9iaetUSLY/0.jpg)](https://youtu.be/CF9iaetUSLY)
