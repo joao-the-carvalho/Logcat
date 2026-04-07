@@ -13,3 +13,17 @@
 </ul>
 
 ## Telas:
+ <table>
+  <tr>
+    <td><img src="Telas/1.png" width=200/></td>
+    <td><img src="Telas/2.png" width=200/></td>
+    <td><img src="Telas/4.png" width=200/></td>
+    <td><img src="Telas/3.png" width=200/></td>
+  </tr>
+</table> 
+
+## Execução:
+<video width="1280" height="720" controls>
+  <source src="Telas/video.mp4" type="video/mp4">
+Seu navegador não comporta a tag de vídeo.
+</video>
