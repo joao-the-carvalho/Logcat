@@ -4,6 +4,14 @@
 ## Linguagem utilizada:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" width=100 />
 
+## Como usar?
+<ul>
+  <li>Faça registro e depois login;</li>
+  <li>Após isso, coloque o nome de um aluno para avaliar;</li>
+  <li>Clique em um dos 4 botões para atribuir uma nota a esse aluno;</li>
+  <li>Por fim, para ver as notas atribuidas, clique no botão com um inseto, para acessar o Logcat.</li>
+</ul>
+
 ## Como rodar o projeto?
 <ul>
   <li>Baixe o repositório como um arquivo.zip;</li>
