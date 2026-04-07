@@ -23,7 +23,4 @@
 </table> 
 
 ## Execução:
-<video width="1280" height="720" controls>
-  <source src="Telas/video.mp4" type="video/mp4">
-Seu navegador não comporta a tag de vídeo.
-</video>
+[![Video (por motivos técnicos, o vídeo vai baixar como um arquivo ao invés de rodar)](https://raw.githubusercontent.com/joao-the-carvalho/Logcat/main/Telas/thumbnail.png)](https://raw.githubusercontent.com/joao-the-carvalho/Logcat/main/Telas/video.mp4)
